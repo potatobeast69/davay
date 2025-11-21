@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct CircuitLinesDuelApp: App {
+struct CircuitLinesDuelApp: App {dsdas
     @AppStorage("hasCompletedOnboarding") private var hasCompletedOnboarding = false
     
     var body: some Scene {
